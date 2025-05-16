@@ -46,6 +46,11 @@ Linear Regression
 
 Polynomial Regression
 
+![image](https://github.com/user-attachments/assets/31b17e3e-17f4-46b9-bf54-cd458bf08d02)
+
+Support Vector Regression
+
+
 
 
 
