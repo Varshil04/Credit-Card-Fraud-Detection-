@@ -50,7 +50,9 @@ Polynomial Regression
 
 Support Vector Regression
 
+![image](https://github.com/user-attachments/assets/87c193bc-8521-4f2d-ba7e-8cb9700ae1e9)
 
+Decision Tree Regression
 
 
 
