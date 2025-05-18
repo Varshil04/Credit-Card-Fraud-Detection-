@@ -55,7 +55,17 @@ Support Vector Regression
 Decision Tree Regression
 
 
+![image](https://github.com/user-attachments/assets/abfebf75-1744-4a54-8625-97a572f7de2a)
 
+Random Forest Regression
+
+![image](https://github.com/user-attachments/assets/ab13d168-d107-4c7c-8b1e-faf5a804a629)
+
+KNN Regression
+
+![image](https://github.com/user-attachments/assets/82cbe163-ebde-4867-a5fb-cae2178749b9)
+
+Naive Bayes Classifier
 
 
 
